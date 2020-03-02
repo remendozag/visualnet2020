@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\AppSentenciaIF\bin\Debug\netcoreapp3.0\AppSentenciaIF.exe
+C:\Users\Administrador\source\repos\AppSentenciaIF\bin\Debug\netcoreapp3.0\AppSentenciaIF.deps.json
+C:\Users\Administrador\source\repos\AppSentenciaIF\bin\Debug\netcoreapp3.0\AppSentenciaIF.runtimeconfig.json
+C:\Users\Administrador\source\repos\AppSentenciaIF\bin\Debug\netcoreapp3.0\AppSentenciaIF.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\AppSentenciaIF\bin\Debug\netcoreapp3.0\AppSentenciaIF.dll
+C:\Users\Administrador\source\repos\AppSentenciaIF\bin\Debug\netcoreapp3.0\AppSentenciaIF.pdb
+C:\Users\Administrador\source\repos\AppSentenciaIF\obj\Debug\netcoreapp3.0\AppSentenciaIF.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\AppSentenciaIF\obj\Debug\netcoreapp3.0\AppSentenciaIF.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AppSentenciaIF\obj\Debug\netcoreapp3.0\AppSentenciaIF.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AppSentenciaIF\obj\Debug\netcoreapp3.0\AppSentenciaIF.dll
+C:\Users\Administrador\source\repos\AppSentenciaIF\obj\Debug\netcoreapp3.0\AppSentenciaIF.pdb
