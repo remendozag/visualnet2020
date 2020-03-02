@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\bin\Debug\netcoreapp3.0\AppSentenciaSWITCH.exe
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\bin\Debug\netcoreapp3.0\AppSentenciaSWITCH.deps.json
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\bin\Debug\netcoreapp3.0\AppSentenciaSWITCH.runtimeconfig.json
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\bin\Debug\netcoreapp3.0\AppSentenciaSWITCH.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\bin\Debug\netcoreapp3.0\AppSentenciaSWITCH.dll
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\bin\Debug\netcoreapp3.0\AppSentenciaSWITCH.pdb
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\obj\Debug\netcoreapp3.0\AppSentenciaSWITCH.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\obj\Debug\netcoreapp3.0\AppSentenciaSWITCH.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\obj\Debug\netcoreapp3.0\AppSentenciaSWITCH.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\obj\Debug\netcoreapp3.0\AppSentenciaSWITCH.dll
+C:\Users\Administrador\source\repos\AppSentenciaSWITCH\obj\Debug\netcoreapp3.0\AppSentenciaSWITCH.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "AppSentenciaSWITCH/1.0.0": {
+        "runtime": {
+          "AppSentenciaSWITCH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppSentenciaSWITCH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
